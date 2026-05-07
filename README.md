@@ -7,9 +7,9 @@ This is the collection of the work Done in the EDS Course
 
 ✅ Data Visualization [View here](./Data%20visualization.pdf)
 
-✅ Python Essentials 1 Certificate [View Here](./Python%20Essentials%201%20certificate%20piyushmisal212.pdf)
+✅ Python Essentials 1 Certificate [View Here](./Python_Essentials_1_certificate_piyushmisal212.pdf)
 
-✅ Python Essentials 2 Certificate [View Here](./Python%20Essentials%202%20certificate%20piyushmisal212.pdf)
+✅ Python Essentials 2 Certificate [View Here](./Python_Essentials_2_certificate_piyushmisal212.pdf)
 
 ✅ Practical 1 [View Practical 1](./EDS%20Practical%2001.pdf)
 
