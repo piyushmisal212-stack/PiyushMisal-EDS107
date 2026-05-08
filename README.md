@@ -5,7 +5,7 @@ This is the collection of the work Done in the EDS Course
 
 ✅ CodeTantra Completion [View Completion](./Codetantra%20Completion.pdf)
 
-✅ Data Visualization [View here](./Data%20visualization.pdf)
+✅ Data Visualization [View here](./IBM%20Data%20visualization.pdf)
 
 ✅ Cisco Certificate 1 [View Here](./Cisco%20Certificate%2001.pdf)
 
